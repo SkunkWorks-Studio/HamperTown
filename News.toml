@@ -1,0 +1,15 @@
+[[headline]]
+title = "Client Connectivity Patch"
+date = 2022.03.01T20:11:00
+content """
+Patched the client to connect to the server from an external source.
+
+Please get the latest version.
+"""
+
+[[headline]]
+title = "Initial Release"
+date = 2022.03.01T19:48:00
+content = """
+Initial release of the new client written in Rust moving away from the bloat of an Electron application.
+"""
