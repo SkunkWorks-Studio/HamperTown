@@ -1,7 +1,7 @@
 [[headline]]
 title = "Client Connectivity Patch"
 date = 2022.03.01T20:11:00
-content """
+content = """
 Patched the client to connect to the server from an external source.
 
 Please get the latest version.
