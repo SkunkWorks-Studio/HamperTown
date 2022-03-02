@@ -17,6 +17,7 @@ All game server modifications and updates are to be contributed back up stream
 ## Notes
 * Sometimes there is a an error upon first launch. Not really sure what is going on there but should be able to just try again
 * Must run as administrator
+* [BG Wiki](https://www.bg-wiki.com/ffxi/Main_Page) is a great resource 
 
 ## Issues
 Use issues to file enhancements and report bugs
