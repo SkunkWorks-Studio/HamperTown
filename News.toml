@@ -1,4 +1,4 @@
-[[headline]]
+[[headlines]]
 title = "Client News Feed Update"
 date = 2022-03-02T13:43:00
 content = """
@@ -7,7 +7,7 @@ Implemented getting the news feed from GitHub replacing the dummy lorem ipsum pl
 Please get the latest version [here](https://github.com/SkunkWorks-Studio/HamperTown/releases/latest).
 """
 
-[[headline]]
+[[headlines]]
 title = "Client Connectivity Patch"
 date = 2022-03-01T20:11:00
 content = """
@@ -16,7 +16,7 @@ Patched the client to connect to the server from an external source.
 Please get the latest version [here](https://github.com/SkunkWorks-Studio/HamperTown/releases/latest).
 """
 
-[[headline]]
+[[headlines]]
 title = "Initial Release"
 date = 2022-03-01T19:48:00
 content = """
