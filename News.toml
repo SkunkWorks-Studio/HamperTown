@@ -1,6 +1,6 @@
 [[headlines]]
 title = "Client News Feed Update"
-date = "2022-03-02T13:43:00"
+date = "2022-03-02T19:43:00"
 content = """
 Implemented getting the news feed from GitHub replacing the dummy lorem ipsum placeholders.
 
