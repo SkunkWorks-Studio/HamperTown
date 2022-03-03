@@ -1,6 +1,6 @@
 [[headline]]
 title = "Client News Feed Update"
-date = 2022.03.02T13:43:00
+date = 2022-03-02T13:43:00
 content = """
 Implemented getting the news feed from GitHub replacing the dummy lorem ipsum placeholders.
 
@@ -9,7 +9,7 @@ Please get the latest version [here](https://github.com/SkunkWorks-Studio/Hamper
 
 [[headline]]
 title = "Client Connectivity Patch"
-date = 2022.03.01T20:11:00
+date = 2022-03-01T20:11:00
 content = """
 Patched the client to connect to the server from an external source.
 
@@ -18,7 +18,7 @@ Please get the latest version [here](https://github.com/SkunkWorks-Studio/Hamper
 
 [[headline]]
 title = "Initial Release"
-date = 2022.03.01T19:48:00
+date = 2022-03-01T19:48:00
 content = """
 Initial release of the new client written in Rust moving away from the bloat of an Electron application.
 """
