@@ -1,4 +1,14 @@
 [[headlines]]
+title = "FFXI Version Update"
+date = "2022-04-02T22:03:00"
+content = """
+The FFXI game files have been updated to version 30220204_0. We now have access to the next 4 wardrobe storage options 
+as well as a whole host of new features and implemented functionality as a result of moving to the new server backend.
+
+See [LandSandBoat](https://github.com/LandSandBoat/server) for more details on the server implementation.
+"""
+
+[[headlines]]
 title = "Client News Feed Update"
 date = "2022-03-02T19:43:00"
 content = """
