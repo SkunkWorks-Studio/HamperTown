@@ -1,12 +1,20 @@
 [[headlines]]
+title = "Client update 4.1.0"
+date = "2022-03-11T07:03:00"
+content = """
+- Fixed patching bug that was preventing a fresh install from updating properly.
+- Added the client version number to the footer
+
+Pickup the latest version [here](https://github.com/SkunkWorks-Studio/HamperTown/releases/latest).
+"""
+
+[[headlines]]
 title = "Client update 4.0.3"
 date = "2022-03-10T14:30:00"
 content = """
 Updated the client to make configuration simpler. The individual server settings have been removed in favor of just one address setting.
 
 Pickup the latest version [here](https://github.com/SkunkWorks-Studio/HamperTown/releases/latest).
-
-In other news, the March game update has been released. Will be looking at providing the new game patch and compiling server updates in the near future.
 """
 
 [[headlines]]
