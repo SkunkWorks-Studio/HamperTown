@@ -1,4 +1,15 @@
 [[headlines]]
+title = "Client update 4.1.2"
+date = "2022-04-21T15:22:00"
+content = """
+- New patch was generated and small adjustment added to the call to launch the game.
+
+Let me know if you run across any issues.
+
+Pickup the latest version [here](https://github.com/SkunkWorks-Studio/HamperTown/releases/latest).
+"""
+
+[[headlines]]
 title = "Client update 4.1.0"
 date = "2022-03-11T07:03:00"
 content = """
