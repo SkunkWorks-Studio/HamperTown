@@ -11,12 +11,10 @@ All game server modifications and updates are to be contributed back up stream t
 3. Unzip the client to whatever place you want, and change the settings in the `config.toml` file
     * Set your `username` and `password` if you want the client to auto fill them for you
     * Change the `address` setting as appropriate
-    * Run the client as administrator by right clicking `xiboot.exe` and selecting `Run as administrator`
-    * Upon first launch, the client will validate the current installation and update as needed
+    * Run the client. Upon first launch, the client will validate the current installation and update as needed
 
 ## Notes
 * Sometimes there is a an error upon first launch. Not really sure what is going on there but should be able to just try again
-* Must run as administrator
 
 ## Resources
 * [BG Wiki](https://www.bg-wiki.com/ffxi/Main_Page)
