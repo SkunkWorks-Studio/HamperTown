@@ -2,7 +2,7 @@
 title = "Client update 4.1.2"
 date = "2022-04-21T15:22:00"
 content = """
-- New patch was generated and small adjustment added to the call to launch the game.
+A new game patch was generated and small adjustment was added to the call that launches the game.
 
 Let me know if you run across any issues.
 
